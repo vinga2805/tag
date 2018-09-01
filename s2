@@ -1,0 +1,9 @@
+mgmt_ip: 10.20.120.134
+vlans:
+  blue:
+    port: 20
+  green:
+    port: 30
+ports:
+  1: [20]
+  2: [30,50]
