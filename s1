@@ -1,4 +1,4 @@
-mgmt_ip: 10.20.120.134
+mgmt_ip: 10.20.120.125
 sdn_controller: 134.123.32.44
 vlans:
   yellow:
