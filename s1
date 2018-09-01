@@ -8,3 +8,4 @@ vlans:
 ports:
   1: [20]
 auth_ip: 12.23.34.21
+ading new vlan
